@@ -1,10 +1,8 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on INSS, federal government organization, looking for change my profession area to IT  
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 🔭 I’m currently working on INSS, federal government organization, looking for changing my career to IT  
+- 🌱 I’m currently learning HTML, CSS, Javascript, Node.js, PostgreSQL
 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
