@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on INSS, federal government organization, looking for changing my career to IT  
-- 🌱 I’m currently learning HTML, CSS, Javascript, Node.js, PostgreSQL
+- 🔭 I’m currently working on INSS, federal government organization, looking for change my career to IT  
+- 🌱 I’m currently learning HTML, CSS, Javascript, Node.js, PostgreSQL, Bootstrap
 
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with getting projects for study or freelance
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: https://www.linkedin.com/in/marioadoncel/ 88mario.doncel@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
