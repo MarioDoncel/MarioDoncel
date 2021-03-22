@@ -6,7 +6,7 @@
 
 - 🤔 I’m looking for help with getting projects for study or freelance
 - 💬 Ask me about ...
-- 📫 How to reach me: 
+- 📫 How to reach me: <br>
              Linkedin -> https://www.linkedin.com/in/marioadoncel/    
              email    -> 88mario.doncel@gmail.com
 - 😄 Pronouns: ...
