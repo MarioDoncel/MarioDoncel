@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on INSS, federal government organization, looking for change my career to IT  
-- 🌱 I’m currently learning HTML, CSS, Javascript, Node.js, PostgreSQL, Bootstrap
+- 🔭 I’m currently working on INSS, federal government organization, on the way to became a Full Stack Javascript Developer 
+- 🌱 I’m currently learning HTML, CSS, Javascript, Node.js, PostgreSQL, Bootstrap, ReactJS, Typescript
 
 - 🤔 I’m looking for help with getting projects for study or freelance examples
 - 💬 Ask me about ...
