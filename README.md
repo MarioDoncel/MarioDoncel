@@ -2,24 +2,18 @@
 
 A person who fell in love with web development and breathes this wonderful world daily.
 
-    "Programming for me is like being in a game, where the challenges presented are fun battles to face and each technology discovered is a new stage reached to be explored, the achievements and projects carried out bring a pleasure that is difficult to describe."
+  ***"Programming for me is like being in a game, where the challenges presented are fun battles to face and each technology discovered is a new stage reached to be explored, the achievements and projects carried out bring a pleasure that is difficult to describe."***
 
 I am currently a federal civil servant determined to make a career transition as soon as the opportunity arises. I have a good level of English and Spanish and I am currently focused on exploring/mastering the Javascript universe.
 
 I have my own applications created in JS Vanilla that I use as a solution for real family businesses, I also have several projects developed for study in courses, if you are curious most of them are publicly available on my Github, contact me and I can give you more details =) .
 
-    Looking for my first corporate experience (internship/junior) in companies that use current technologies and have a healthy work environment.
+**Looking for my first corporate experience (internship/junior) in companies that use current technologies and have a healthy work environment.**
 
-    To anyone interested in offering me an opportunity, I can guarantee commitment, dedication and professionalism.
-
-
+**To anyone interested in offering me an opportunity, I can guarantee commitment, dedication and professionalism.**
 
 
-
-- 🌱 I’m currently focused on improving my skills on REACT, TYPESCRIPT and MONGODB
-
-
-- ⚡ Available for Freelance projects/internship opportunities.
+⚡ Available for work opportunities.
 
 <hr>
 
