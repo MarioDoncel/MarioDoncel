@@ -17,7 +17,7 @@ I have my own applications created in JS Vanilla that I use as a solution for re
 
 <hr>
 
-## 🛠️ My Tools 
+# 🛠️ My Tools 
 ( currently focused on improving my skills on React, Typescript and MongoDB )
 <hr>
 
@@ -51,7 +51,7 @@ I have my own applications created in JS Vanilla that I use as a solution for re
 <hr>
 
 
-## 🕹️⌨️ My Playground 
+# 🕹️⌨️ My Playground 
 <hr>
 
 
