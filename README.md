@@ -1,4 +1,4 @@
-# Hi 👋 i'm Mario Doncel! :D
+# Hi i'm Mario Doncel! 👋
 
 A person who fell in love with web development and breathes this wonderful world daily.
 
