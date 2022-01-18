@@ -2,13 +2,13 @@
 
 A person who fell in love with web development and breathes this wonderful world daily.
 
-  ***"Programming for me is like being in a game, where the challenges presented are fun battles to face and each technology discovered is a new stage reached to be explored, the achievements and projects carried out bring a pleasure that is difficult to describe."***
+Currently I'm focused 100% on the Javascript universe.
 
-I am currently a federal civil servant determined to make a career transition as soon as the opportunity arises. I have a good level of English and Spanish and I am currently focused on exploring/mastering the Javascript universe.
+I have  more than 1 year of experience in Javascript development acquired through courses, development of personal projects for study and applications for my family businesses, through these I was able to apply my knowledge in the technologies mentioned in my stack.
 
-I have my own applications created in JS Vanilla that I use as a solution for real family businesses, I also have several projects developed for study in courses, if you are curious most of them are publicly available on my Github, contact me and I can give you more details =) .
+Recognized in my work environment for productivity, focus and resilience.
 
-**Looking for my first corporate experience (internship/junior) in companies that use current technologies and have a healthy work environment.**
+**Looking for my first corporate experience with development (internship/junior) in companies that use current technologies and have a healthy work environment.**
 
 **To anyone interested in offering me an opportunity, I can guarantee commitment, dedication and professionalism.**
 
