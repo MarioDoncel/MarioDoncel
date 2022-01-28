@@ -8,10 +8,6 @@ Currently I'm focused 100% on the Javascript universe.
 
 Recognized in my work environment for productivity, focus and resilience.
 
-**Looking for my first corporate experience with development (internship/junior) in companies that use current technologies and have a healthy work environment.**
-
-**To anyone interested in offering me an opportunity, I can guarantee commitment, dedication and professionalism.**
-
 
 ⚡ Available for work opportunities.
 
