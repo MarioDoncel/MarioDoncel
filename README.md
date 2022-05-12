@@ -2,7 +2,7 @@
 
 Currently I'm focused 100% on the Javascript universe.
 
-1+ year of experience in Javascript development acquired through freelance jobs, courses, development of personal projects for study and applications for my family businesses, through these I was able to apply my knowledge in the technologies mentioned in my stack.
+1.5+ year of experience in Javascript development acquired through freelance jobs, courses, development of personal projects for study and applications for my family businesses, through these I was able to apply my knowledge in the technologies mentioned in my stack.
 
 Recognized in my work environment for productivity, focus and resilience.
 
