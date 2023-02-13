@@ -2,7 +2,7 @@
 
 Currently I'm focused 100% on the Javascript universe.
 
-1.5+ year of experience in Javascript development.
+2+ year of experience in Javascript development.
 
 Recognized in my work environment for productivity, focus and resilience.
 
