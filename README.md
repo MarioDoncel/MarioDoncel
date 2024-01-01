@@ -1,10 +1,8 @@
 # Hi i'm Mario Doncel! 👋
 
-2+ year of experience developing grea.
+3+ year of experience developing great software.
 
 Recognized in my work environment for productivity, focus and resilience.
-
-A person who fell in love with web development and breathes this wonderful world daily.
 
 ⚡ Available for work opportunities.
 
