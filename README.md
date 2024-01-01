@@ -13,7 +13,6 @@ A person who fell in love with web development and breathes this wonderful world
 <hr>
 
 # 🛠️ My Tools 
-( currently focused on improving my skills on React, Typescript and MongoDB )
 <hr>
 
 ### IDE/Version control
